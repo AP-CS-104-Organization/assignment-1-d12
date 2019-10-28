@@ -1,2 +1,2 @@
-source "https://rubygems.org"
+asource "https://rubygems.org"
 gemspec
